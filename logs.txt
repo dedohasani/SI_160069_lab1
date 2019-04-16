@@ -1,0 +1,6 @@
+commit 8e028cef963627ad384f58dd966e938ae42365d4 (HEAD -> logs, origin/master, ma
+ster)
+Author: dedohasani <dedohasani@gmail.com>
+Date:   Tue Apr 16 11:11:52 2019 +0200
+
+    Initial commit
