@@ -4,10 +4,12 @@ using namespace std;
 
 void printMyName () {
 	//TODO
+	cout<<"Arnen "<<"Telqiu ";
 }
 
 void printMyIndex () {
 	//TODO
+	cout<<"161131";
 }
 
 int main () {
